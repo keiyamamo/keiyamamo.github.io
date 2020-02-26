@@ -8,7 +8,7 @@ body {
     }
 
 .profile_png {
-     float: right; 
+     margin-left: auto;
 }
 
 a {
@@ -20,5 +20,5 @@ p {
  }
 
 .menu a {
- border: 1px solid white;
+
  }
