@@ -1,4 +1,7 @@
- body { 
+ 
+body { 
+      background: #141E30;
   　  line-height: 3.0em;
       font-family: Arial;
+      color: #FFF;
     }
