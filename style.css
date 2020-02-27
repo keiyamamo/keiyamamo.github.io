@@ -1,6 +1,6 @@
  
 body { 
-      background: #87CEEB;
+      background: #6495ED;
   　  line-height: 24px;
       font-family: Georgia;
       color: #FFF;
@@ -10,7 +10,7 @@ body {
 
 .profile_png {
 　　　float: right;
-     margin-left: 700px;
+     margin-left: 900px;
 }
 
 a {
