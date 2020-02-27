@@ -42,11 +42,11 @@ ul li {
  display: inline;
 }
 
-#research_interests li {
+#research_interest li {
  display: inline;
 }
 
-#research_interests ul {
+#research_interest ul {
   list-style-type: disc;
  }
 
