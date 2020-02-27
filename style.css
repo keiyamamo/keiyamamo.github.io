@@ -33,14 +33,21 @@ ul li {
   padding-bottom:10px;
 }
 
+.programming ul {
+ list-style-type: disc;
+ }
+ 
+ 
 .programming li {
  display: inline;
- list-style-type: disc;
 }
 
 #research_interests li {
  display: inline;
- list-style-type: disc;
 }
+
+#research_interests ul {
+  list-style-type: disc;
+ }
 
 
