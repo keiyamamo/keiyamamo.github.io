@@ -9,9 +9,13 @@ body {
 
 
 .profile_png {
-　　　float: right;
-     margin-left: 1100px;
+　　
+     margin-left: 900px;
 }
+
+.myself {
+ float: left;
+ }
 
 a {
   color: #0FF;
