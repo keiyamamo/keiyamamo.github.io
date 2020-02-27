@@ -7,8 +7,13 @@ body {
       margin: 5px 10px 40px 20px;
     }
 
+box { 
+ width: auto;
+ }
+
 .profile_png {
 　　　float: right;
+     margin-left: auto;
 }
 
 a {
