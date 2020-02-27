@@ -29,11 +29,13 @@ ul li {
 }
 
 .programming li {
-display: inline;
+ display: inline;
+ list-style-type: disc;
 }
 
 #research_interests li {
-display: inline;
+ display: inline;
+ list-style-type: disc;
 }
 
 
