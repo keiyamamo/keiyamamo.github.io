@@ -16,8 +16,9 @@ body {
  float: left;
  }
 
-a {
+.menu a {
   color: #0FF;
+  margin: 10px;
  }
 
 p { 
