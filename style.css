@@ -17,8 +17,11 @@ body {
  }
 
 .menu a {
-  color: #0FF;
   margin: 10px;
+ }
+
+a {
+ color: #0FF;
  }
 
 p { 
